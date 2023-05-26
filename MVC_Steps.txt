@@ -1,0 +1,8 @@
+Step 1: Create MVC Project.
+Step 2: Add the dependencies. [junit, spring-context, spring-webmvc, jstl, spring-core, spring-web, servlet-api] 
+Step 3: Create the controller class
+	@Controller annotation marks this class as Controller
+	@RequestMapping annotation is used to map the class with the specified URL name.
+Step 4: Configure the web.xml file and provide entry for Controller class
+Step 5: Define bean in an XML file
+Step 6: Create the JSP page
